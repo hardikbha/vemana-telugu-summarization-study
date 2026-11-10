@@ -15,8 +15,13 @@ model = ["torch>=2.6", "transformers==5.22.2", "accelerate==1.15.0", "huggingfac
 reports = ["reportlab==5.1.0", "pypdf==7.0.0", "python-docx==1.2.0"]
 test = ["pytest>=8,<10"]
 
+[project.scripts]
+vemana-summarize = "vemana_study.cli:main"
+vemana-train = "vemana_study.training:main"
+
 [tool.setuptools]
 py-modules = ["engine"]
+packages = ["vemana_study"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

@@ -3,6 +3,10 @@
 This is an open starting point for investigation. None of the suggestions below
 has been established as an effective fix by this repository's recorded results.
 
+The new [experiment and training guide](SUMMARIZATION_EXPERIMENTS.md) implements
+language/prompt/decoding trials and target-only supervised training. The historical
+baseline below is unchanged; implementation tests do not establish improved summary quality.
+
 ## First files to inspect
 
 1. [One-page report](../results/vemana_baseline/Vemana_Base_Evaluation.pdf).

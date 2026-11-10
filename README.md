@@ -9,6 +9,17 @@ Telugu source notes, raw generations, checks, timings, memory measurements, and 
 Telugu-to-English summarizer out of the box. This is a starting point for research,
 not a production summarization service or a claim that adaptation cannot work.
 
+## New experiments and supervised training
+
+The `vemana_study` package adds a reusable `Summarizer`, English/Telugu output,
+zero to three varied demonstrations, seeded decoding, a human-review worksheet,
+and a full supervised fine-tuning command with target-only loss. These are
+experimental tools, **not evidence that the base model now summarizes reliably**.
+The historical runner and recorded baseline remain unchanged.
+
+See [the runnable experiment and training guide](docs/SUMMARIZATION_EXPERIMENTS.md)
+for installation, comparison runs, the training-data schema, and checkpoint use.
+
 ## Start here for review
 
 - [One-page evaluation report](results/vemana_baseline/Vemana_Base_Evaluation.pdf)
@@ -160,7 +171,7 @@ Included: runnable completion tests, pinned model download/verification, actual
 data and outputs, a corpus generator, report generation, tests and review guidance.
 Model weights, virtual environments, credentials and real helpline data are excluded.
 
-Not implemented: a supervised fine-tuning pipeline, a curated bilingual training set,
+Not provided: a curated bilingual training set, a quality-validated fine-tuned model,
 independent human evaluation, production authentication/UI, or AWS deployment.
 [SUPERVISOR_REVIEW.md](docs/SUPERVISOR_REVIEW.md) describes concrete ways to investigate
 these gaps before making production claims.

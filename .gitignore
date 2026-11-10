@@ -1,5 +1,6 @@
 models/
 outputs/
+data/private/
 vemana_evaluation/
 wheelhouse/
 offline_bundle/

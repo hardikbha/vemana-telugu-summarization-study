@@ -15,6 +15,9 @@ proposed changes.
 6. Do not commit weights, API keys, environments or real citizen data. Attach only
    approved, de-identified review material to public discussions.
 
-Model training is not implemented here yet. A training contribution should include
-data provenance, objective/loss masking, reproducible hyperparameters, train/test
-separation, checkpoint license, and source-level evaluation—not only a training loss.
+The experimental `vemana-train` command is described in
+[SUMMARIZATION_EXPERIMENTS.md](docs/SUMMARIZATION_EXPERIMENTS.md). Training contributions
+should include data provenance, objective/loss masking, reproducible hyperparameters,
+train/test separation, checkpoint license, and source-level evaluation—not only a
+training loss. Do not publish private source/target pairs or model outputs without
+reviewing them; local training and experiment directories are ignored by Git.
