@@ -22,6 +22,11 @@ See [the GPU results and review](results/gpu-en-v1/README.md),
 sampled peak GPU process memory was 1,902 MiB (1.86 GiB), with FP32 weights.
 These are measurements for Vemana-Base, not Qwen3.5-0.8B or an EC2 benchmark.
 
+A subsequent [three-note Telugu-output pilot](results/gpu-te-pilot-v1/README.md)
+also failed all three cases. The outputs used Telugu script but copied prompt
+instructions and examples; the urgent electrical hazard was again omitted.
+This small pilot does not establish a full-corpus Telugu accuracy score.
+
 ## New experiments and supervised training
 
 The `vemana_study` package adds a reusable `Summarizer`, English/Telugu output,

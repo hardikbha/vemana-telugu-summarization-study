@@ -1,0 +1,37 @@
+{
+  "checkpoint": "udgamlabs/Vemana-Base",
+  "model_revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+  "checkout_commit": "82718e0465f2e754410f899cc3721f79da8c0dce",
+  "inference_code_unchanged_since": "82bedc160dc80d573249ed8e8d015f6a3b59de2a",
+  "host": "gpu01",
+  "physical_gpu_index": 5,
+  "selection": "Purposive three-note pilot: water, pension, urgent fallen electrical wires. Not a random or full-corpus Telugu evaluation.",
+  "examples": 3,
+  "decoding": "greedy",
+  "max_new_tokens": 192,
+  "seed": 42,
+  "paired_ids": [
+    "note_001_water.txt",
+    "note_021_pension.txt",
+    "note_100_urgent_wires.txt"
+  ],
+  "source_hashes_match_prior_english_run": true,
+  "source_truncations": 0,
+  "context_budget_failures": 0,
+  "telugu_status_counts": {
+    "rejected_basic_checks": 3
+  },
+  "paired_english_status_counts": {
+    "rejected_basic_checks": 3
+  },
+  "telugu_target_script_fractions": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "telugu_demonstration_overlap_count": 3,
+  "telugu_output_budget_exhausted_count": 3,
+  "telugu_stopped_at_eos_count": 0,
+  "factual_accuracy": null,
+  "conclusion": "All three Telugu outputs use Telugu script but copy instructions/demonstrations rather than preserve the complaint. The urgent electrical hazard is omitted. No reliable summarization improvement demonstrated on these three paired cases."
+}

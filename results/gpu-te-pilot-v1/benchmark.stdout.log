@@ -1,0 +1,4 @@
+note_001_water.txt: rejected_basic_checks (192 tokens)
+note_021_pension.txt: rejected_basic_checks (192 tokens)
+note_100_urgent_wires.txt: rejected_basic_checks (192 tokens)
+Review source/output pairs in /home/sachin.chaudhary/vemana-gpu/outputs/gpu-te-pilot-v1/human_review.csv

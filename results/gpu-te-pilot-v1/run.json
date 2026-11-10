@@ -1,0 +1,171 @@
+{
+  "status": "completed",
+  "versions": {
+    "torch": "2.10.0+cu128",
+    "transformers": "5.22.2",
+    "vemana-summarization-study": "0.1.0"
+  },
+  "device": "cuda",
+  "dtype": "float32",
+  "threads": 8,
+  "settings": {
+    "target_language": "te",
+    "examples": 3,
+    "max_new_tokens": 192,
+    "decoding": "greedy",
+    "seed": 42,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "device": "cuda",
+    "threads": 8
+  },
+  "inputs": [
+    "note_001_water.txt",
+    "note_021_pension.txt",
+    "note_100_urgent_wires.txt"
+  ],
+  "factual_accuracy": null,
+  "model": {
+    "directory_name": "Vemana-Base",
+    "model_manifest.json": {
+      "repo_id": "udgamlabs/Vemana-Base",
+      "revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+      "sha256": {
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "NOTICE": "67290077dcceb5e9c49e195cea0e569e8174ca9d0e8341e8938ac12f67c7c4f8",
+        "README.md": "48dd381b209095b96210eefee46042c91072bc2d88d1e579251d99a528362eaa",
+        "config.json": "dc3c351ff7a00bad134c84fc9a99682647b38cd7f0eafb6ef798adc551d3bc9d",
+        "generation_config.json": "7b673c215497398bb3980f15d75391d3bf8be9cc7cc9bf9a6b4e155c611d66df",
+        "model.safetensors": "74011a3d44151353b8ac58147de02f1047556d94dcb56f32bb66b84a6c2b87dd",
+        "tokenizer.json": "cebf9d7de6b4734ecbc02584090fc20589f0ccbd1f99bfa7a2e5417edd39c880",
+        "tokenizer_config.json": "41626f7639687a55eaca59eec6397cca073b50a1e0d1efb3806758cc88b867db"
+      }
+    },
+    "model_manifest.json_sha256": "020a6c1839fb2e34d867f96e6e959fe34178a92a79fb6f77726eeaae8f4cd6d9",
+    "config.json": {
+      "architectures": [
+        "Gemma4ForCausalLM"
+      ],
+      "model_type": "gemma4_text",
+      "vocab_size": 32000,
+      "hidden_size": 1024,
+      "intermediate_size": 3584,
+      "num_hidden_layers": 18,
+      "num_attention_heads": 8,
+      "num_key_value_heads": 2,
+      "head_dim": 64,
+      "global_head_dim": 128,
+      "per_layer_config": {
+        "0": {
+          "head_dim": 128
+        },
+        "1": {
+          "head_dim": 128
+        },
+        "2": {
+          "head_dim": 128
+        },
+        "3": {
+          "head_dim": 128
+        },
+        "4": {
+          "head_dim": 128
+        },
+        "5": {
+          "head_dim": 128
+        },
+        "6": {
+          "head_dim": 128
+        },
+        "7": {
+          "head_dim": 128
+        },
+        "8": {
+          "head_dim": 128
+        },
+        "9": {
+          "head_dim": 128
+        },
+        "10": {
+          "head_dim": 128
+        },
+        "11": {
+          "head_dim": 128
+        },
+        "12": {
+          "head_dim": 128
+        },
+        "13": {
+          "head_dim": 128
+        },
+        "14": {
+          "head_dim": 128
+        },
+        "15": {
+          "head_dim": 128
+        },
+        "16": {
+          "head_dim": 128
+        },
+        "17": {
+          "head_dim": 128
+        }
+      },
+      "hidden_activation": "gelu_pytorch_tanh",
+      "max_position_embeddings": 4096,
+      "rms_norm_eps": 1e-06,
+      "sliding_window": 512,
+      "layer_types": [
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention"
+      ],
+      "final_logit_softcapping": 15.0,
+      "tie_word_embeddings": true,
+      "hidden_size_per_layer_input": 0,
+      "vocab_size_per_layer_input": 32000,
+      "num_kv_shared_layers": 0,
+      "use_double_wide_mlp": false,
+      "attention_k_eq_v": false,
+      "enable_moe_block": false,
+      "attention_bias": false,
+      "attention_dropout": 0.0,
+      "use_cache": true,
+      "rope_parameters": {
+        "sliding_attention": {
+          "rope_type": "default",
+          "rope_theta": 10000.0
+        },
+        "full_attention": {
+          "rope_type": "proportional",
+          "partial_rotary_factor": 1.0,
+          "rope_theta": 1000000.0
+        }
+      },
+      "pad_token_id": 0,
+      "eos_token_id": 2,
+      "bos_token_id": 1,
+      "dtype": "float32"
+    },
+    "config.json_sha256": "dc3c351ff7a00bad134c84fc9a99682647b38cd7f0eafb6ef798adc551d3bc9d"
+  },
+  "notes_attempted": 3,
+  "status_counts": {
+    "rejected_basic_checks": 3
+  }
+}

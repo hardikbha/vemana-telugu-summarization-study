@@ -1,0 +1,10 @@
+{
+  "README.md": "fa5194c3463a8c5fcb0bad2507dfa8e7fcf88f2d769ec41dde1f1fcf1caf56b4",
+  "benchmark.stderr.log": "c210ef62335e6a598bea90f6ae654aace3e2ad248224374f92d71604ea2f56bc",
+  "benchmark.stdout.log": "9b6380387d0d5755800ca8c457b01c8d3b044784b334a0667dd859b012337f8f",
+  "comparison.json": "49e9ceb992ac6715def3b91a188ee26712d5cac0bc5185397fc592d3c593443f",
+  "human_review.csv": "b7502ab9acb219155d6247f6de763c0a0c6c63910e5457a6e9e9f9ee51d8568f",
+  "paired_comparison.csv": "14afc4cfa1a40981ae8ea0ce0cbf0fb3b28100525552741868f6891f066ffdf0",
+  "results.jsonl": "508913624116c9c549de08a909af87353dca2ae321a6c3497d7d96fd48f0f94a",
+  "run.json": "75b1e0e43043c061074c7e617c9949c9068af849488248908b428bb53040822a"
+}
