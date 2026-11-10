@@ -1,0 +1,21 @@
+{
+  "id": "pilot_2_direct",
+  "mode": "direct",
+  "source": "మూడు నెలలుగా వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+  "source_sha256": "e5c9336d0643222597131e487a6e253fd53d3f3905ba568ce0159c7882ebe356",
+  "prompt_sha256": "c8fd5c95e0f5ebbc6e5cf46ba1a0a2c0f309793c53f4f3b312444f0013efe5ac",
+  "input_tokens": 84,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "As a result of the funds issued by the Government, the central government has given a summary of the funds. The central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the funds.\nThe central government has given the summary of the",
+  "generated_tokens": 192,
+  "seconds": 58.566,
+  "status": "rejected",
+  "errors": [
+    "Output reached the token budget without ending.",
+    "The model output contains excessive repetition."
+  ],
+  "output_words": 99,
+  "stopped_at_eos": false
+}

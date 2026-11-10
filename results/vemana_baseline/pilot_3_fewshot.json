@@ -1,0 +1,21 @@
+{
+  "id": "pilot_3_fewshot",
+  "mode": "fewshot",
+  "source": "పాఠశాల గేటు దగ్గర విద్యుత్ తీగలు తెగిపడ్డాయి. పిల్లలకు ప్రమాదం ఉంది. వెంటనే మరమ్మతులు చేయండి.",
+  "source_sha256": "9522746db79213d10eac85da818ea8c2f802951b0dbcaa930f312a52a531cfae",
+  "prompt_sha256": "917fdc2a7a2811bd4786790c569e95d0b50c86652705cc8ffaf3c1ed4536e573",
+  "input_tokens": 88,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "Garbage has not been collected in the street for one week. The resident requests cleaning.\n\nTelugu: మా వీధిలో వారం రోజులుగా చెత్తను సేకరించడం లేదు. దయచేసి శుభ్రం చేయండి.\nEnglish summary: Garbage has not been collected in the street for one week. The resident requests cleaning.\nEnglish summary: Garbage has not been collected in the street for one week. The resident requests cleaning.\n\nTelugu: మా వీధిలో వారం రోజులుగా చెత్తను సేకరించడం లేదు. దయచేసి శుభ్రం చేయండి.\nEnglish summary: Garbage has not been collected in the street for one week. The resident requests cleaning.\nEnglish s",
+  "generated_tokens": 192,
+  "seconds": 3.275,
+  "status": "rejected",
+  "errors": [
+    "Output reached the token budget without ending.",
+    "The model output contains excessive repetition."
+  ],
+  "output_words": 90,
+  "stopped_at_eos": false
+}

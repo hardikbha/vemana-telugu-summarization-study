@@ -1,0 +1,923 @@
+{
+  "synthetic": true,
+  "templated": true,
+  "note_count": 100,
+  "word_count_total": 30721,
+  "min_words": 302,
+  "max_words": 317,
+  "source_category_counts": {
+    "water": 20,
+    "pension": 15,
+    "roads": 15,
+    "electricity": 12,
+    "sanitation": 10,
+    "healthcare": 8,
+    "ration": 7,
+    "land": 6,
+    "education": 6,
+    "urgent_wires": 1
+  },
+  "notes": [
+    {
+      "id": "N001",
+      "file": "note_001_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "9fa464d2cd8510dd0f7ebe6b9ba42b430d2d0464bac0815d84e7dfe53174fb80"
+    },
+    {
+      "id": "N002",
+      "file": "note_002_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "4d387183608e3547afef63e894671f2312f7b4d8a776ff64dc86ee25e3b5760e"
+    },
+    {
+      "id": "N003",
+      "file": "note_003_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "276a4a9e0153aab14b46fa0a341463880193aad2334abac7f0df3a138ad32870"
+    },
+    {
+      "id": "N004",
+      "file": "note_004_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "576349e696df99ff58b6abac64d469cff07e034c4f5def0f790a9648491f8fab"
+    },
+    {
+      "id": "N005",
+      "file": "note_005_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "c5854a08b07c67e2ee1c847e941d37ed451387ec49d44275dbc7431819363cae"
+    },
+    {
+      "id": "N006",
+      "file": "note_006_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "ab5ef2d20dd046d84c1575bc451c8561548a8ed94a5a6658009108dcf3e52e62"
+    },
+    {
+      "id": "N007",
+      "file": "note_007_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "95e4e06ec76bba90fd276674d467e23047b5e5640797c61da36683037497ab01"
+    },
+    {
+      "id": "N008",
+      "file": "note_008_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "b7a516d49190d042ac262152974646a4e64b515a2795bc40fcd67e79e5c90a90"
+    },
+    {
+      "id": "N009",
+      "file": "note_009_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "1e930457fb57ff9b483ec51cb1f0c566b3accb6e8d98873a86ee46370625581d"
+    },
+    {
+      "id": "N010",
+      "file": "note_010_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "84dde858a50349d8915962ac2d3451ac00e10ae348de2dd1e6ec2289498dd325"
+    },
+    {
+      "id": "N011",
+      "file": "note_011_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "9b59803d3459e5827fbb3610434191c417a44f8b7f018e056383ee6ca1272950"
+    },
+    {
+      "id": "N012",
+      "file": "note_012_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "a238f798bab3da515d50a13b8b2fe98506aece934a9eedbc02a96915c4715185"
+    },
+    {
+      "id": "N013",
+      "file": "note_013_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "07c5763dfc197ed96ea79862a8a2cb6e21010514455f398b303698cf8c551358"
+    },
+    {
+      "id": "N014",
+      "file": "note_014_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "d7fc0054eaf68a9b47dfa475a788c687f67921b9fc98fde754219f3b37d0292a"
+    },
+    {
+      "id": "N015",
+      "file": "note_015_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "12ba1893237f9aad3909f21709d5bda6511425e9d538c775e6c0ac9d159aca84"
+    },
+    {
+      "id": "N016",
+      "file": "note_016_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "4fae6504eb14149d21fa43a56e180058d5847acb9479ac409711eb69bf35943c"
+    },
+    {
+      "id": "N017",
+      "file": "note_017_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "d6c4fa78262132653b592dce92e5a615c324a63f22789bcee9f4e929310a04fa"
+    },
+    {
+      "id": "N018",
+      "file": "note_018_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "c62f0e6a120dd05602d37bb2dd163d67f0ab231704bd4b0d655a536499eeb97a"
+    },
+    {
+      "id": "N019",
+      "file": "note_019_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "653671d0126d93503c044491a440800c778a1482f5a4c4ef4003b9459d8e260e"
+    },
+    {
+      "id": "N020",
+      "file": "note_020_water.txt",
+      "category": "water",
+      "words": 304,
+      "main_fact": "మా గ్రామంలో తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+      "urgent": false,
+      "sha256": "dc3d501cf9cc16ba471aa50b6d8dfc70f70042f1cf60d9ab5dccfa4245b626da"
+    },
+    {
+      "id": "N021",
+      "file": "note_021_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "c5ed6fff3b2fe1b2a4c48db526a8bd2d19eab87ac0fab3ee469638bccc3a00dc"
+    },
+    {
+      "id": "N022",
+      "file": "note_022_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "e321508f0095cb0eb07bc757c6fd67135f723625769956b51e9bfa95724cd1fb"
+    },
+    {
+      "id": "N023",
+      "file": "note_023_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "60acdb5511887c2b5e0714675541eb1b409f4ebf02a6e509f4f5c0b4bf50aa70"
+    },
+    {
+      "id": "N024",
+      "file": "note_024_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "6af8133eeb4ca397f019a78a0f64c03b5b8b2d344d3e78fffdc8ae2e49b62dc1"
+    },
+    {
+      "id": "N025",
+      "file": "note_025_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "e7303cfbefeb993b5a62689c348da7ad043f00be9f5f0adde970dd2622cb7cc1"
+    },
+    {
+      "id": "N026",
+      "file": "note_026_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "a69e341b53bc1d8108a37f7f88fe017115e1db33287a697a0ca64af633f4a03a"
+    },
+    {
+      "id": "N027",
+      "file": "note_027_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "d67d767358543f216ddf6aa031323dc97bfe7f3c065857d207e02cb93dd34fd4"
+    },
+    {
+      "id": "N028",
+      "file": "note_028_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "2483a9250449ac9d64dcc9b7dfeeb874a6d7362dc1cf5bd402370ed1f418c94e"
+    },
+    {
+      "id": "N029",
+      "file": "note_029_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "729ee7c7a7fffe0ce8744a57446e94e0be331d479cd51f9f4613a502fcc5e247"
+    },
+    {
+      "id": "N030",
+      "file": "note_030_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "032cc8feca850172ea3a246e9bddc6dc6ddbcc7a1d89a017b01a0c88448f54e1"
+    },
+    {
+      "id": "N031",
+      "file": "note_031_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "23cbed49e26c6951ce6d2dd92495524ed9d1fdf782c6f653c46269b982992e98"
+    },
+    {
+      "id": "N032",
+      "file": "note_032_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "3f8596a7557268a4835b25c64fb968cfc428bf714d38c97a87bd9cc8f5de1c2a"
+    },
+    {
+      "id": "N033",
+      "file": "note_033_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "c6b2326be94b64145da8650dc2e405786f117e7bc2eee9e0dada05c7fd383c25"
+    },
+    {
+      "id": "N034",
+      "file": "note_034_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "4b9dcf59ce34cd05ace2160c97d39e763ec68e4a98c0541253f1fcbfa43009f6"
+    },
+    {
+      "id": "N035",
+      "file": "note_035_pension.txt",
+      "category": "pension",
+      "words": 308,
+      "main_fact": "వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+      "urgent": false,
+      "sha256": "70340f54729e096479030385130350ab85142d96a32a82304a904a0554e45957"
+    },
+    {
+      "id": "N036",
+      "file": "note_036_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "390144ed98e790daeb0dfad9536c43b1734ea9279bd6b64389a2f65e3c5a6b78"
+    },
+    {
+      "id": "N037",
+      "file": "note_037_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "37f8db316dd1f7583d4265745bcbc74a584dc1a2ff0215488974a8b1cc120c02"
+    },
+    {
+      "id": "N038",
+      "file": "note_038_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "02fb2c7a79c5ec794cd8054456eb42216c6721a38dbb18fda53556cae1ce71d1"
+    },
+    {
+      "id": "N039",
+      "file": "note_039_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "51460a01d3a4c09f9179600b349a04c06258100b3d6eab9f75fd4af2d13428e2"
+    },
+    {
+      "id": "N040",
+      "file": "note_040_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "cd90ea7d4e09eb93776ae729141b3e8880f36b08057045d93f99b65e94b23265"
+    },
+    {
+      "id": "N041",
+      "file": "note_041_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "7eaef2a44a7ce3fb3d38b7a49f183c0c38ea4d724d8087c2d710e629c14984af"
+    },
+    {
+      "id": "N042",
+      "file": "note_042_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "3fb05244591fa2444a3f5561eabff500d856a4fc7c53e7bcafd9b9d68776adec"
+    },
+    {
+      "id": "N043",
+      "file": "note_043_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "34afa18d87dcb4e776c1d1c635ee37a97814524339e02845102bbc253fcc7631"
+    },
+    {
+      "id": "N044",
+      "file": "note_044_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "bc4ab0ca552d206cdadf196b921106c5f927a68f508ecaa4c7438cb7a77ecae7"
+    },
+    {
+      "id": "N045",
+      "file": "note_045_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "e9cddfcd0f889210f12188316ba687a6f5ab645c24d756a8a0dd26368de2fea9"
+    },
+    {
+      "id": "N046",
+      "file": "note_046_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "48f69420e53cb382d2969966843fb7abdf3e06bfe1bf049541d47f016d4f34e9"
+    },
+    {
+      "id": "N047",
+      "file": "note_047_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "2f01cad7c1bd23175bf9d4325708b8b93ce4b7807a4755e94e25aab7c19ca4da"
+    },
+    {
+      "id": "N048",
+      "file": "note_048_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "47dbde7db41f52b59277514efd99c9666efc61f44dc8014276d1b736b18458e6"
+    },
+    {
+      "id": "N049",
+      "file": "note_049_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "52806e433e1b5986b92c3e0d66fa6bf6c9a7379a3b1befeca37c8dec56703f52"
+    },
+    {
+      "id": "N050",
+      "file": "note_050_roads.txt",
+      "category": "roads",
+      "words": 303,
+      "main_fact": "మా ప్రాంతంలోని రహదారి గుంతలతో దెబ్బతింది. దయచేసి రహదారి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "3e18a5cdf66fe741b7621fdc7ca0f3afe724717fd71287902d2ddd466ef61dbe"
+    },
+    {
+      "id": "N051",
+      "file": "note_051_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "7ba3a7463927754a916f51ee686e6fcc715e573d851981c07596384def5125b0"
+    },
+    {
+      "id": "N052",
+      "file": "note_052_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "d652c17077e04125e70cbf0f49355d71106b1615aaba6f61cf2f6489dcb9e272"
+    },
+    {
+      "id": "N053",
+      "file": "note_053_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "76c74dfd6f730cf357b6682e730db282421b3df5bfac128f2821809ae653ba68"
+    },
+    {
+      "id": "N054",
+      "file": "note_054_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "e37be1b5ed4e914da65191ee2cc2566b67c9abc66974e974500467bf23c8478a"
+    },
+    {
+      "id": "N055",
+      "file": "note_055_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "9ff0ec907db8399dd4a968ff986328e5e7fdc40bfa62e2e6e748af76b7f45c41"
+    },
+    {
+      "id": "N056",
+      "file": "note_056_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "b89c7ac3d22f02b7d237143efce1b32b1711e37b0f47e71304e85d0b7d96838a"
+    },
+    {
+      "id": "N057",
+      "file": "note_057_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "7ec8d24063399a57d94ae1646ab5dacee977e0688923ce32b6c2ed3b973c81cb"
+    },
+    {
+      "id": "N058",
+      "file": "note_058_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "bbe5728536a8a5c04ef12d1a03c8c576a8493fafc042705cf5c6bee72e10210b"
+    },
+    {
+      "id": "N059",
+      "file": "note_059_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "65c66ca9b76ee450dba9aad91a9fae47891d890270efbe4e3bb2883b8140b2d7"
+    },
+    {
+      "id": "N060",
+      "file": "note_060_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "3c955c21dc7f85075cb2ac9a90410229f0fba7f17419caf8e6bfc9e6ef5fc8f7"
+    },
+    {
+      "id": "N061",
+      "file": "note_061_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "b7e528f8e79c25b78517bbed2527f947785e41f0cbbf187d1058f639649b9821"
+    },
+    {
+      "id": "N062",
+      "file": "note_062_electricity.txt",
+      "category": "electricity",
+      "words": 310,
+      "main_fact": "మా ప్రాంతంలో విద్యుత్ సరఫరాకు తరచుగా అంతరాయం కలుగుతోంది. విద్యుత్ సమస్యను పరిశీలించి మరమ్మతులు చేయండి.",
+      "urgent": false,
+      "sha256": "20908ace334fb14814c884bc7f4ebba375ef3c556b1e21bc6299c614c002ed8d"
+    },
+    {
+      "id": "N063",
+      "file": "note_063_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "a86e51d247400d20ab91924f2bb79be790cb3a6c2c330e3fd59142b44c3e1fb4"
+    },
+    {
+      "id": "N064",
+      "file": "note_064_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "dd960f324f6236a85eea2783d425dc6311dff7da5ca6a1fb09d8f0f3bef3ab83"
+    },
+    {
+      "id": "N065",
+      "file": "note_065_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "b3385304a7598e395839eaa0ef3f117a3d09100814b0f2731231a3f147f07f93"
+    },
+    {
+      "id": "N066",
+      "file": "note_066_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "ed675004cdec2b0aae3d087518be2484ca7bd22ff70bc8d8e7ef078731e23e73"
+    },
+    {
+      "id": "N067",
+      "file": "note_067_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "dae50d0f39cb03704e0cf30808f72143b4cbb3532c39dad302d61d5b11bce639"
+    },
+    {
+      "id": "N068",
+      "file": "note_068_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "c568991e3874f779947fed7cd9dfd075df4e6051f611603f4e3f04d74164ecb6"
+    },
+    {
+      "id": "N069",
+      "file": "note_069_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "6c684dfc8f34ba6368bcb37d856f17ef4a2bd90f701a76a3a132d5e43ea80b21"
+    },
+    {
+      "id": "N070",
+      "file": "note_070_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "ea81395313be439a35ba8dfdb9c77bb34b5fa08974eb87db6b5d46ecf16be890"
+    },
+    {
+      "id": "N071",
+      "file": "note_071_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "2bd667d439e6f047b937eec0f662e3089ecd795fe0f32dca65c1818956aded42"
+    },
+    {
+      "id": "N072",
+      "file": "note_072_sanitation.txt",
+      "category": "sanitation",
+      "words": 310,
+      "main_fact": "మా వీధిలో చెత్త పేరుకుపోయింది. మురుగు నీరు నిలిచింది. దయచేసి చెత్త తొలగించి కాలువ శుభ్రం చేయండి.",
+      "urgent": false,
+      "sha256": "17e243704a90d047c703292db3c40d46d6c926e5b455012e59cd4558b9e491a9"
+    },
+    {
+      "id": "N073",
+      "file": "note_073_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "80cd7619290f53841d9aa66cdea4d8ad9937df009a8787ffde110d46d34720da"
+    },
+    {
+      "id": "N074",
+      "file": "note_074_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "72d3e6f7e4e176fbd76f6bca28a7be7b22d053d85e50abfba0299476d19d2866"
+    },
+    {
+      "id": "N075",
+      "file": "note_075_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "501a6ad6acab4aa10b4a806fe8ad1c85055b76bf4f64eb76020f8512dfecf991"
+    },
+    {
+      "id": "N076",
+      "file": "note_076_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "738912021db3d7434e435648368d57d4f412222b35e7653a3ce4b99ce1981c97"
+    },
+    {
+      "id": "N077",
+      "file": "note_077_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "9cdb05c83db014d498d9ec0b05045a53abc7c9c8e444fdbfd7091429e65ef9d3"
+    },
+    {
+      "id": "N078",
+      "file": "note_078_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "4b33bd780e409f8db93d9e028bc57e1716f9d51d6423c9b59cfb6aa8a60de224"
+    },
+    {
+      "id": "N079",
+      "file": "note_079_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "5df3ba70d878a1aae8ee1bb859ab110323e0bc181f1063649a5f375743036a6a"
+    },
+    {
+      "id": "N080",
+      "file": "note_080_healthcare.txt",
+      "category": "healthcare",
+      "words": 312,
+      "main_fact": "మా ప్రాంతంలోని ఆరోగ్య కేంద్రంలో అవసరమైన మందులు అందుబాటులో లేవు. మందుల సరఫరా మరియు వైద్య సేవలను మెరుగుపరచండి.",
+      "urgent": false,
+      "sha256": "62c8216e3ca91eba49dc4909605ebb6b8eb21be33698d329007a26e7b9a5a449"
+    },
+    {
+      "id": "N081",
+      "file": "note_081_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "82f35faed8f0fc9661724c87d3ca356ed9f5f11fd7957e3ea0440067ec6a82da"
+    },
+    {
+      "id": "N082",
+      "file": "note_082_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "fd56b75d2e6e48904a5993beb9f464867631e96cde5b5a99d95e18b29fbc7fa4"
+    },
+    {
+      "id": "N083",
+      "file": "note_083_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "1c35468dde74cfa638716006fdaccee8891e435df5cc43cc02ae5e36dbe837e7"
+    },
+    {
+      "id": "N084",
+      "file": "note_084_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "a0136b0845edafa3e55d98e0300a4596088582a49f10f3868425f4c146dbc77a"
+    },
+    {
+      "id": "N085",
+      "file": "note_085_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "7fae9fc9bf1d592ffb8ae483a03792bfc0242c8fd63a319070d2d10e11ea5841"
+    },
+    {
+      "id": "N086",
+      "file": "note_086_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "dbe8581db51d215491a3619c780e598c4471a1b85b4787593e73d7f293a5c475"
+    },
+    {
+      "id": "N087",
+      "file": "note_087_ration.txt",
+      "category": "ration",
+      "words": 311,
+      "main_fact": "మా కుటుంబానికి రేషన్ సరుకులు అందడం లేదు. పంపిణీ వివరాలను పరిశీలించి అర్హమైన సరుకులు అందించండి.",
+      "urgent": false,
+      "sha256": "1782ad4b4910e0bb41e805e679621672cfb85faf91b42191686c80d2c46cac84"
+    },
+    {
+      "id": "N088",
+      "file": "note_088_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "e3144103b42289a7911cf051c72774365d024632ec8fe785da2fe0fca234bd36"
+    },
+    {
+      "id": "N089",
+      "file": "note_089_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "5aa20142634a99f0f9b5262187ef1ab23f26b9c02a03d7b2e3d15667a05f488b"
+    },
+    {
+      "id": "N090",
+      "file": "note_090_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "60717e31a61b06910aa8be603513018ad95a45f39f665a9cbb07344983cb7857"
+    },
+    {
+      "id": "N091",
+      "file": "note_091_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "7c11937a1955e09cde1e5f3f3471de0be2cef7003dd710f7b63a5a34c38909c8"
+    },
+    {
+      "id": "N092",
+      "file": "note_092_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "4d88c2aa0b6335cb2360162f4778af443b97c7214ef86a18a9e1371527dd9a52"
+    },
+    {
+      "id": "N093",
+      "file": "note_093_land.txt",
+      "category": "land",
+      "words": 309,
+      "main_fact": "మా భూమి రికార్డుల్లో వివరాలు తప్పుగా కనిపిస్తున్నాయి. పత్రాలను పరిశీలించి రికార్డు సవరణ ప్రక్రియను తెలియజేయండి.",
+      "urgent": false,
+      "sha256": "53242e9f2188070add24ff5a2781ed2d05563c018cbaccf9aeda81f4521a89b1"
+    },
+    {
+      "id": "N094",
+      "file": "note_094_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "99563df40dc8df9419198fa37be77ba20cf104cd295510625d2d165dec3a00c3"
+    },
+    {
+      "id": "N095",
+      "file": "note_095_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "144f5bd49c5f7efb0f8c0b998229ef61a4d4f7f6c3716fd3ed2a7e8bb1ff0c0d"
+    },
+    {
+      "id": "N096",
+      "file": "note_096_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "104919f6012e3f80add248118d0369fff94fed6e66057d1c2712073e4985e974"
+    },
+    {
+      "id": "N097",
+      "file": "note_097_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "c4a8d4057b3a3db9c899d4f2f8b3a9095a0d6c28807d4b6319110de13c8f3ddf"
+    },
+    {
+      "id": "N098",
+      "file": "note_098_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "893cb741e56a69d3ac918816f98ce4c0d99ed6640991790ca879d87fd2266f2b"
+    },
+    {
+      "id": "N099",
+      "file": "note_099_education.txt",
+      "category": "education",
+      "words": 302,
+      "main_fact": "మా గ్రామంలోని పాఠశాలలో మరుగుదొడ్లు సరిగా పనిచేయడం లేదు. పాఠశాల సౌకర్యాలను మరమ్మతు చేయండి.",
+      "urgent": false,
+      "sha256": "c7a7a199e0974c9e60aba25a5a1c2f4ac891054b6870c2caae02efb481898c23"
+    },
+    {
+      "id": "N100",
+      "file": "note_100_urgent_wires.txt",
+      "category": "urgent_wires",
+      "words": 317,
+      "main_fact": "పాఠశాల గేటు దగ్గర విద్యుత్ తీగలు తెగిపడ్డాయి. పిల్లలకు ప్రమాదం ఉంది. వెంటనే మరమ్మతులు చేయండి.",
+      "urgent": true,
+      "sha256": "82526aa8f9e884b25369380950dc98843013db4948b4067d1d0ff0d33a94c604"
+    }
+  ],
+  "limits": "Synthetic, partly templated workload. Not 100 independently collected real complaints; source counts are ground truth labels, not model predictions."
+}

@@ -1,0 +1,14 @@
+{
+  "repo_id": "udgamlabs/Vemana-Base",
+  "revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+  "sha256": {
+    "tokenizer_config.json": "41626f7639687a55eaca59eec6397cca073b50a1e0d1efb3806758cc88b867db",
+    "README.md": "48dd381b209095b96210eefee46042c91072bc2d88d1e579251d99a528362eaa",
+    "model.safetensors": "74011a3d44151353b8ac58147de02f1047556d94dcb56f32bb66b84a6c2b87dd",
+    "NOTICE": "67290077dcceb5e9c49e195cea0e569e8174ca9d0e8341e8938ac12f67c7c4f8",
+    "tokenizer.json": "cebf9d7de6b4734ecbc02584090fc20589f0ccbd1f99bfa7a2e5417edd39c880",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "config.json": "dc3c351ff7a00bad134c84fc9a99682647b38cd7f0eafb6ef798adc551d3bc9d",
+    "generation_config.json": "7b673c215497398bb3980f15d75391d3bf8be9cc7cc9bf9a6b4e155c611d66df"
+  }
+}

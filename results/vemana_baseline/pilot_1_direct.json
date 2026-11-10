@@ -1,0 +1,21 @@
+{
+  "id": "pilot_1_direct",
+  "mode": "direct",
+  "source": "మా గ్రామంలో రెండు రోజులుగా తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+  "source_sha256": "2355730864d250663eb8485c09917c75bbb8b46814633d9eba33bb5a64deb64e",
+  "prompt_sha256": "f8ee47ba0293f15fbbad63c7a01b3770fe05e7ebf96db0996b204c40072af1d2",
+  "input_tokens": 83,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "A woman who was involved in a murder case in Kurnool district, was arrested by the police. The woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.\nThe woman was arrested by the police in the case.",
+  "generated_tokens": 192,
+  "seconds": 10.912,
+  "status": "rejected",
+  "errors": [
+    "Output reached the token budget without ending.",
+    "The model output contains excessive repetition."
+  ],
+  "output_words": 117,
+  "stopped_at_eos": false
+}

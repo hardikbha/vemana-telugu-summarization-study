@@ -1,0 +1,21 @@
+{
+  "model": "udgamlabs/Vemana-Base",
+  "license": "Apache-2.0",
+  "parameters": 278214144,
+  "model_revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+  "actual_model_bytes": 1115561396,
+  "long_notes_attempted": 100,
+  "accepted_basic_checks": 0,
+  "rejected": 100,
+  "context_failures": 0,
+  "copied_garbage_example_phrase": 100,
+  "source_topic_keyword_present": 10,
+  "diagnostic_limits": "Basic checks and keyword counts are not factual-accuracy scores. Copying the prompt example can create false topical matches.",
+  "peak_process_ram_gib": 2.188,
+  "runtime_seconds": 183.269,
+  "device": "cpu",
+  "trained_context_limit": 1024,
+  "network_attempts": [],
+  "recommendation": "Vemana-Base is not suitable as a drop-in Telugu-to-English summarizer in this trial. It is an Apache-2.0 base for further research/adaptation, not a validated summarization model.",
+  "comparison_caveat": "Different architecture, tokenizer, prompt format, precision and output budget from Qwen; no controlled model ranking is claimed."
+}

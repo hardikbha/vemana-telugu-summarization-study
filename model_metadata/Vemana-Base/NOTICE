@@ -1,0 +1,16 @@
+Vemana-Base
+Copyright 2026 Udgam Labs LLP
+
+Licensed under the Apache License, Version 2.0 (see LICENSE). The weights and the tokenizer were trained from random
+initialisation by Udgam Labs; no third-party model weights were used.
+
+Training data (public Telugu web text):
+- Sangraha, verified Telugu subset, by AI4Bharat. CC-BY-4.0.
+  https://huggingface.co/datasets/ai4bharat/sangraha
+- FineWeb-2, tel_Telu, by Hugging Face. Open Data Commons Attribution License (ODC-By) v1.0; use is also subject to
+  Common Crawl's Terms of Use (https://commoncrawl.org/terms-of-use).
+  https://huggingface.co/datasets/HuggingFaceFW/fineweb-2
+- HPLT 3.0, tel_Telu, by the HPLT project. CC0 1.0 for the packaging; the HPLT project does not own the underlying texts.
+  https://hplt-project.org/datasets/v3.0
+
+The tokenizer was trained on Sangraha verified Telugu text (shard data-0).

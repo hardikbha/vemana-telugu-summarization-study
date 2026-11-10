@@ -1,0 +1,18 @@
+{
+  "id": "pilot_2_fewshot",
+  "mode": "fewshot",
+  "source": "మూడు నెలలుగా వృద్ధాప్య పింఛను అందడం లేదు. దయచేసి పింఛను విడుదల చేయండి.",
+  "source_sha256": "e5c9336d0643222597131e487a6e253fd53d3f3905ba568ce0159c7882ebe356",
+  "prompt_sha256": "922599c0ee6e748b4de672647127e0e0664fe93c66309ce925e3579947b70e58",
+  "input_tokens": 86,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "Garbage has not been collected in the street for one week. The resident requests the government to give the pension to the poor.",
+  "generated_tokens": 43,
+  "seconds": 11.079,
+  "status": "accepted_basic_checks",
+  "errors": [],
+  "output_words": 23,
+  "stopped_at_eos": true
+}

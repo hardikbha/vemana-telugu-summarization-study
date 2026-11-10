@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=78"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vemana-summarization-study"
+version = "0.1.0"
+description = "Reproducible direct-use study of Vemana-Base for Telugu-to-English summaries"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = []
+
+[project.optional-dependencies]
+model = ["torch>=2.6", "transformers==5.22.2", "accelerate==1.15.0", "huggingface-hub==2.4.0", "safetensors>=0.6"]
+reports = ["reportlab==5.1.0", "pypdf==7.0.0", "python-docx==1.2.0"]
+test = ["pytest>=8,<10"]
+
+[tool.setuptools]
+py-modules = ["engine"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

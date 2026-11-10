@@ -1,0 +1,10 @@
+# Recorded CPU inference and report versions. Obtain torch from the official CPU index.
+torch==2.15.0+cpu
+transformers==5.22.2
+accelerate==1.15.0
+huggingface-hub==2.4.0
+safetensors==0.8.0
+reportlab==5.1.0
+pypdf==7.0.0
+python-docx==1.2.0
+pytest==9.2.0

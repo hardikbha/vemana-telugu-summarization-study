@@ -1,0 +1,4 @@
+*.pdf binary
+*.docx binary
+# Keep the original spreadsheet-friendly CSV bytes (UTF-8 BOM and CRLF).
+*.csv -text whitespace=cr-at-eol

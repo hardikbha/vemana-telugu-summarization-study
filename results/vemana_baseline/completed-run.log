@@ -1,0 +1,40 @@
+Loading weights:   0%|          | 0/254 [00:00<?, ?it/s]Loading weights: 100%|██████████| 254/254 [00:00<00:00, 13765.68it/s]
+{"batch_completed": 8, "batch_size": 8, "batch_seconds": 11.662}
+{"batch_completed": 16, "batch_size": 8, "batch_seconds": 11.458}
+{"batch_completed": 24, "batch_size": 8, "batch_seconds": 17.256}
+{"batch_completed": 32, "batch_size": 8, "batch_seconds": 11.623}
+{"batch_completed": 40, "batch_size": 8, "batch_seconds": 16.39}
+{"batch_completed": 48, "batch_size": 8, "batch_seconds": 11.775}
+{"batch_completed": 56, "batch_size": 8, "batch_seconds": 16.242}
+{"batch_completed": 64, "batch_size": 8, "batch_seconds": 15.839}
+{"batch_completed": 72, "batch_size": 8, "batch_seconds": 11.239}
+{"batch_completed": 80, "batch_size": 8, "batch_seconds": 11.929}
+{"batch_completed": 88, "batch_size": 8, "batch_seconds": 17.014}
+{"batch_completed": 96, "batch_size": 8, "batch_seconds": 16.415}
+{"batch_completed": 100, "batch_size": 4, "batch_seconds": 9.78}
+{
+  "model": "udgamlabs/Vemana-Base",
+  "revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+  "parameters": 278214144,
+  "license": "Apache-2.0",
+  "base_model": true,
+  "instruction_tuned": false,
+  "device": "cpu",
+  "dtype": "float32",
+  "threads": 8,
+  "long_note_batch_size": 8,
+  "pilot_outputs_reused": true,
+  "tokenizer_has_chat_template": false,
+  "load_seconds": 4.028,
+  "elapsed_seconds": 183.269,
+  "peak_process_memory_gib": 2.188,
+  "notes_attempted": 100,
+  "accepted_basic_checks": 0,
+  "context_budget_failures": 0,
+  "rejected_outputs": 100,
+  "english_requirement": true,
+  "trained_context_limit": 1024,
+  "network_attempts": [],
+  "method": "Plain completion; direct and one-example few-shot pilots; one-example few-shot 100-note trial, no chat template or silent source truncation. No training performed.",
+  "limits": "Synthetic, partly templated sources; basic acceptance is not semantic accuracy. Prompting differs from Qwen because this is a base model. Different output budget and architecture prevent a controlled benchmark ranking."
+}

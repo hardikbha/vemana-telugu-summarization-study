@@ -1,0 +1,18 @@
+{
+  "id": "pilot_1_fewshot",
+  "mode": "fewshot",
+  "source": "మా గ్రామంలో రెండు రోజులుగా తాగునీరు రావడం లేదు. నీటి సరఫరాను పునరుద్ధరించండి.",
+  "source_sha256": "2355730864d250663eb8485c09917c75bbb8b46814633d9eba33bb5a64deb64e",
+  "prompt_sha256": "e26cc34fcea862718773142fea2e47d655fc18fa53a75e824c90a7d9337c492f",
+  "input_tokens": 85,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "Garbage has not been collected in the street for one week. The resident requests the Garbage Department.\nStory first published: Monday, May 24, 2009, 16:00 [IST]",
+  "generated_tokens": 66,
+  "seconds": 1.265,
+  "status": "accepted_basic_checks",
+  "errors": [],
+  "output_words": 26,
+  "stopped_at_eos": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pilot_3_direct",
+  "mode": "direct",
+  "source": "పాఠశాల గేటు దగ్గర విద్యుత్ తీగలు తెగిపడ్డాయి. పిల్లలకు ప్రమాదం ఉంది. వెంటనే మరమ్మతులు చేయండి.",
+  "source_sha256": "9522746db79213d10eac85da818ea8c2f802951b0dbcaa930f312a52a531cfae",
+  "prompt_sha256": "a4e8626f622f7fe3d84334c5710db24d6a0698d158b17a7373cfa47fa4a1960c",
+  "input_tokens": 87,
+  "max_new_tokens": 192,
+  "trained_context_limit": 1024,
+  "source_truncated": false,
+  "output": "A warning from the school gate in Summer. The school gate was linked to the electricity wire. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was linked to the school gate. The wire was link",
+  "generated_tokens": 192,
+  "seconds": 3.346,
+  "status": "rejected",
+  "errors": [
+    "Output reached the token budget without ending.",
+    "The model output contains excessive repetition."
+  ],
+  "output_words": 101,
+  "stopped_at_eos": false
+}
