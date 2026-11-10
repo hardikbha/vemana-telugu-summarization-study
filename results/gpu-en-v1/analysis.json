@@ -1,0 +1,41 @@
+{
+  "source_commit": "82bedc160dc80d573249ed8e8d015f6a3b59de2a",
+  "notes_attempted": 100,
+  "status_counts": {
+    "rejected_basic_checks": 100
+  },
+  "errors": {
+    "excessive_repetition": 69,
+    "output_budget_exhausted": 100,
+    "target_script_mismatch": 54,
+    "Summary did not preserve the pension term from the note.": 15,
+    "Summary did not preserve the broken/fallen electrical-wire event.": 1
+  },
+  "notes_with_example_overlap": 85,
+  "example_overlap_counts": {
+    "2": 84,
+    "3": 1
+  },
+  "context_budget_failures": 0,
+  "source_truncations": 0,
+  "prompt_tokens_min": 739,
+  "prompt_tokens_max": 762,
+  "generated_tokens_total": 19200,
+  "stopped_at_eos_count": 0,
+  "generation_seconds_total": 203.544,
+  "generation_seconds_mean": 2.03544,
+  "wall_seconds": 227.658,
+  "observed_peak_gpu_process_memory_mib": 1902,
+  "observed_peak_process_tree_rss_bytes": 1356820480,
+  "resource_sample_count": 195,
+  "gpu_query_error_count": 0,
+  "integrity_checks": {
+    "all_source_text_and_hashes_match": true,
+    "all_prompt_hashes_match": true,
+    "all_context_budgets_respected": true,
+    "review_csv_input_ids_match": true,
+    "cli_summary_matches_records": true
+  },
+  "factual_accuracy": null,
+  "interpretation": "Mechanical checks and example overlap do not establish factual accuracy."
+}

@@ -9,6 +9,19 @@ Telugu source notes, raw generations, checks, timings, memory measurements, and 
 Telugu-to-English summarizer out of the box. This is a starting point for research,
 not a production summarization service or a claim that adaptation cannot work.
 
+## Latest GPU experiment: three examples
+
+The requested run of commit `82bedc1` completed on an H100 GPU on 10 November
+2026, using all 100 Telugu notes and three prompt examples. **All 100 outputs
+failed basic checks**; 85 contained a seven-word overlap with a demonstration.
+The urgent fallen-wire complaint was missed. This is not a factual-accuracy score.
+
+See [the GPU results and review](results/gpu-en-v1/README.md),
+[all source/output pairs](results/gpu-en-v1/human_review.csv), and
+[raw generations](results/gpu-en-v1/results.jsonl). The run took 227.658 seconds;
+sampled peak GPU process memory was 1,902 MiB (1.86 GiB), with FP32 weights.
+These are measurements for Vemana-Base, not Qwen3.5-0.8B or an EC2 benchmark.
+
 ## New experiments and supervised training
 
 The `vemana_study` package adds a reusable `Summarizer`, English/Telugu output,
@@ -74,8 +87,9 @@ python scripts/verify_model.py
 Weights are approximately **1.12 GB** on disk and are not committed to Git.
 The downloader pins the tested revision and writes SHA-256 checksums. It does not
 execute model-supplied Python code. For a GPU, install a compatible CUDA PyTorch
-build during staging instead of the CPU build; GPU behavior is not established by
-the recorded Vemana CPU test.
+build during staging instead of the CPU build. The separate
+[GPU experiment](results/gpu-en-v1/README.md) records CUDA dependencies and behavior;
+the historical CPU run does not establish GPU performance.
 
 ## Run a small experiment first
 

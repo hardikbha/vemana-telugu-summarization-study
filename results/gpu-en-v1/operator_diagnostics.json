@@ -1,0 +1,10 @@
+{
+  "notes_attempted": 100,
+  "status_counts": {
+    "rejected_basic_checks": 100
+  },
+  "notes_with_example_overlap": 85,
+  "source_truncations": 0,
+  "factual_accuracy": null,
+  "note": "Mechanical checks are not factual accuracy. Human source/output review is required."
+}

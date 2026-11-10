@@ -1,0 +1,15 @@
+{
+  "README.md": "3f3921ffad1e08e11a48d1f09640d689ca9f22b27cf5756201548288a75ed2ce",
+  "analysis.json": "91b0827b59e5d5b6e5c833952d33148d34df33997782d65613fa3196be243050",
+  "benchmark.stderr.log": "a7e77b3c5e7e9d521d001ff2b0ff307efa78988764a68050f9cbba233e4929a1",
+  "benchmark.stdout.log": "da57c467d2e5c869a74c2278bcc8aa711859892ba0d4f67705f2e415f6090f05",
+  "context_preflight.json": "9f1525ff8847714e1553aff019f1cbbebb98fb61bdcfda30618422e1f24b673b",
+  "human_review.csv": "d03a84db4286b20bed209c397b7f018abda016f04ec19a63fb43b9c601f97266",
+  "model-verify.log": "071503edd4dab4b0ea496435d786220c806c7ee9ce86f5ed76fcf59e1463b032",
+  "operator_diagnostics.json": "645298614d1d6721ad7feef30199545b9e258da540f1e9638ad21491b3516cb9",
+  "operator_run.json": "a7f152cf0d7431e47161a216907854758124854e2d1d695eb8885acfa1fc4cf1",
+  "operator_wrapper.py": "84dab3f255bc6ce2dac4bb695a53ccdb55dada2e801b6e37ff575d4fb6045bef",
+  "results.jsonl": "ac801efa83700b3029e4cc16699ab36658297dd8b639f162fac92b5d2b0a73e4",
+  "run.json": "d05f3a83d9753d9c075cf446705eb3c7b0e9ee9862c540a75adabe8af895f0bc",
+  "tests.log": "c337c3a5462943a8afe7a01e252eb124003aa34eec3180e2e5481d65975f13b7"
+}

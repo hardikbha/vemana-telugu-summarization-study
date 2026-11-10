@@ -1,0 +1,268 @@
+{
+  "status": "completed",
+  "versions": {
+    "torch": "2.10.0+cu128",
+    "transformers": "5.22.2",
+    "vemana-summarization-study": "0.1.0"
+  },
+  "device": "cuda",
+  "dtype": "float32",
+  "threads": 8,
+  "settings": {
+    "target_language": "en",
+    "examples": 3,
+    "max_new_tokens": 192,
+    "decoding": "greedy",
+    "seed": 42,
+    "temperature": 0.7,
+    "top_p": 0.9,
+    "device": "cuda",
+    "threads": 8
+  },
+  "inputs": [
+    "note_001_water.txt",
+    "note_002_water.txt",
+    "note_003_water.txt",
+    "note_004_water.txt",
+    "note_005_water.txt",
+    "note_006_water.txt",
+    "note_007_water.txt",
+    "note_008_water.txt",
+    "note_009_water.txt",
+    "note_010_water.txt",
+    "note_011_water.txt",
+    "note_012_water.txt",
+    "note_013_water.txt",
+    "note_014_water.txt",
+    "note_015_water.txt",
+    "note_016_water.txt",
+    "note_017_water.txt",
+    "note_018_water.txt",
+    "note_019_water.txt",
+    "note_020_water.txt",
+    "note_021_pension.txt",
+    "note_022_pension.txt",
+    "note_023_pension.txt",
+    "note_024_pension.txt",
+    "note_025_pension.txt",
+    "note_026_pension.txt",
+    "note_027_pension.txt",
+    "note_028_pension.txt",
+    "note_029_pension.txt",
+    "note_030_pension.txt",
+    "note_031_pension.txt",
+    "note_032_pension.txt",
+    "note_033_pension.txt",
+    "note_034_pension.txt",
+    "note_035_pension.txt",
+    "note_036_roads.txt",
+    "note_037_roads.txt",
+    "note_038_roads.txt",
+    "note_039_roads.txt",
+    "note_040_roads.txt",
+    "note_041_roads.txt",
+    "note_042_roads.txt",
+    "note_043_roads.txt",
+    "note_044_roads.txt",
+    "note_045_roads.txt",
+    "note_046_roads.txt",
+    "note_047_roads.txt",
+    "note_048_roads.txt",
+    "note_049_roads.txt",
+    "note_050_roads.txt",
+    "note_051_electricity.txt",
+    "note_052_electricity.txt",
+    "note_053_electricity.txt",
+    "note_054_electricity.txt",
+    "note_055_electricity.txt",
+    "note_056_electricity.txt",
+    "note_057_electricity.txt",
+    "note_058_electricity.txt",
+    "note_059_electricity.txt",
+    "note_060_electricity.txt",
+    "note_061_electricity.txt",
+    "note_062_electricity.txt",
+    "note_063_sanitation.txt",
+    "note_064_sanitation.txt",
+    "note_065_sanitation.txt",
+    "note_066_sanitation.txt",
+    "note_067_sanitation.txt",
+    "note_068_sanitation.txt",
+    "note_069_sanitation.txt",
+    "note_070_sanitation.txt",
+    "note_071_sanitation.txt",
+    "note_072_sanitation.txt",
+    "note_073_healthcare.txt",
+    "note_074_healthcare.txt",
+    "note_075_healthcare.txt",
+    "note_076_healthcare.txt",
+    "note_077_healthcare.txt",
+    "note_078_healthcare.txt",
+    "note_079_healthcare.txt",
+    "note_080_healthcare.txt",
+    "note_081_ration.txt",
+    "note_082_ration.txt",
+    "note_083_ration.txt",
+    "note_084_ration.txt",
+    "note_085_ration.txt",
+    "note_086_ration.txt",
+    "note_087_ration.txt",
+    "note_088_land.txt",
+    "note_089_land.txt",
+    "note_090_land.txt",
+    "note_091_land.txt",
+    "note_092_land.txt",
+    "note_093_land.txt",
+    "note_094_education.txt",
+    "note_095_education.txt",
+    "note_096_education.txt",
+    "note_097_education.txt",
+    "note_098_education.txt",
+    "note_099_education.txt",
+    "note_100_urgent_wires.txt"
+  ],
+  "factual_accuracy": null,
+  "model": {
+    "directory_name": "Vemana-Base",
+    "model_manifest.json": {
+      "repo_id": "udgamlabs/Vemana-Base",
+      "revision": "93cefe2594c5157e4aa8eb9908639c253652fed9",
+      "sha256": {
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "NOTICE": "67290077dcceb5e9c49e195cea0e569e8174ca9d0e8341e8938ac12f67c7c4f8",
+        "README.md": "48dd381b209095b96210eefee46042c91072bc2d88d1e579251d99a528362eaa",
+        "config.json": "dc3c351ff7a00bad134c84fc9a99682647b38cd7f0eafb6ef798adc551d3bc9d",
+        "generation_config.json": "7b673c215497398bb3980f15d75391d3bf8be9cc7cc9bf9a6b4e155c611d66df",
+        "model.safetensors": "74011a3d44151353b8ac58147de02f1047556d94dcb56f32bb66b84a6c2b87dd",
+        "tokenizer.json": "cebf9d7de6b4734ecbc02584090fc20589f0ccbd1f99bfa7a2e5417edd39c880",
+        "tokenizer_config.json": "41626f7639687a55eaca59eec6397cca073b50a1e0d1efb3806758cc88b867db"
+      }
+    },
+    "model_manifest.json_sha256": "020a6c1839fb2e34d867f96e6e959fe34178a92a79fb6f77726eeaae8f4cd6d9",
+    "config.json": {
+      "architectures": [
+        "Gemma4ForCausalLM"
+      ],
+      "model_type": "gemma4_text",
+      "vocab_size": 32000,
+      "hidden_size": 1024,
+      "intermediate_size": 3584,
+      "num_hidden_layers": 18,
+      "num_attention_heads": 8,
+      "num_key_value_heads": 2,
+      "head_dim": 64,
+      "global_head_dim": 128,
+      "per_layer_config": {
+        "0": {
+          "head_dim": 128
+        },
+        "1": {
+          "head_dim": 128
+        },
+        "2": {
+          "head_dim": 128
+        },
+        "3": {
+          "head_dim": 128
+        },
+        "4": {
+          "head_dim": 128
+        },
+        "5": {
+          "head_dim": 128
+        },
+        "6": {
+          "head_dim": 128
+        },
+        "7": {
+          "head_dim": 128
+        },
+        "8": {
+          "head_dim": 128
+        },
+        "9": {
+          "head_dim": 128
+        },
+        "10": {
+          "head_dim": 128
+        },
+        "11": {
+          "head_dim": 128
+        },
+        "12": {
+          "head_dim": 128
+        },
+        "13": {
+          "head_dim": 128
+        },
+        "14": {
+          "head_dim": 128
+        },
+        "15": {
+          "head_dim": 128
+        },
+        "16": {
+          "head_dim": 128
+        },
+        "17": {
+          "head_dim": 128
+        }
+      },
+      "hidden_activation": "gelu_pytorch_tanh",
+      "max_position_embeddings": 4096,
+      "rms_norm_eps": 1e-06,
+      "sliding_window": 512,
+      "layer_types": [
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention",
+        "full_attention"
+      ],
+      "final_logit_softcapping": 15.0,
+      "tie_word_embeddings": true,
+      "hidden_size_per_layer_input": 0,
+      "vocab_size_per_layer_input": 32000,
+      "num_kv_shared_layers": 0,
+      "use_double_wide_mlp": false,
+      "attention_k_eq_v": false,
+      "enable_moe_block": false,
+      "attention_bias": false,
+      "attention_dropout": 0.0,
+      "use_cache": true,
+      "rope_parameters": {
+        "sliding_attention": {
+          "rope_type": "default",
+          "rope_theta": 10000.0
+        },
+        "full_attention": {
+          "rope_type": "proportional",
+          "partial_rotary_factor": 1.0,
+          "rope_theta": 1000000.0
+        }
+      },
+      "pad_token_id": 0,
+      "eos_token_id": 2,
+      "bos_token_id": 1,
+      "dtype": "float32"
+    },
+    "config.json_sha256": "dc3c351ff7a00bad134c84fc9a99682647b38cd7f0eafb6ef798adc551d3bc9d"
+  },
+  "notes_attempted": 100,
+  "status_counts": {
+    "rejected_basic_checks": 100
+  }
+}
